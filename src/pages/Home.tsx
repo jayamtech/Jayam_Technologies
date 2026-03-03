@@ -67,7 +67,7 @@ export default function Home({ onNavigate }: HomeProps) {
     {
       icon: <Users size={40} />,
       title: "25+ Years Experience",
-      description: "Serving Kulasekharam community",
+      description: "Serving Kanniyakumari community",
     },
     {
       icon: <Award size={40} />,
