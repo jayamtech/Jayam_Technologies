@@ -82,7 +82,7 @@ export default function Home({ onNavigate }: HomeProps) {
     {
       icon: <ThumbsUp size={40} />,
       title: "Customer Satisfaction",
-      description: "10,000+ happy customers",
+      description: "50,000+ happy customers",
     },
   ];
 
@@ -106,7 +106,7 @@ export default function Home({ onNavigate }: HomeProps) {
             </h1>
 
             <p className="text-xl md:text-2xl mb-4 text-blue-100 font-semibold">
-              Your Trusted Tech Partner in Kulasekharam
+              Your Trusted Tech Partner in Kanniyakumari district
             </p>
 
             <p className="text-lg md:text-xl mb-8 text-blue-50 leading-relaxed max-w-2xl mx-auto">
